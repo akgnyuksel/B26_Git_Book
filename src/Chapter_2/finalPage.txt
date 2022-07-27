@@ -1,0 +1,5 @@
+so far we learned git flow
+
+commit -->push
+
+remote
